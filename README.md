@@ -7,3 +7,8 @@ Projeto Final de Página da Web Desenvolvido no Curso HTML5 Completo - Learn Caf
 ![Alt Text](https://media.giphy.com/media/alYHS1oXi1tyxITkXL/giphy.gif)
 
 ![](name-of-giphy.gif)
+
+
+## Intalação
+
+Ctrl+O no browser e então abrir a template principal.
